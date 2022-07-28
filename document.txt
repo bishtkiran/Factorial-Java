@@ -1,0 +1,16 @@
+//Calculating Factorial of a given number
+//Tried to use IntelliJ shortcuts.
+
+TDD Approach
+1. Written the test-cases first and then written code to pass the test cases.
+2. had to write minimal code.
+3. Coverage is maximum
+
+
+// Results should be like this
+0! = 1
+1! = 1
+2! = 2 * 1 = 2
+3! = 3 * 2 * 1 = 6
+4! = 4 * 3 * 2 * 1 = 24
+5! = 5 * 4 * 3 * 2 * 1 = 120
